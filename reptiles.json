@@ -1,0 +1,15 @@
+[
+    {   
+        "reptile_id": 1,
+        "reptile_name": "Lizard1",
+        "reptile_fact": "Bright green lizard."
+    },{   
+        "reptile_id": 2,
+        "reptile_name": "Snake1",
+        "reptile_fact": "Long black snake."
+    },{   
+        "reptile_id": 3,
+        "reptile_name": "Lizard2",
+        "reptile_fact": "Small green lizard."
+    }
+]
